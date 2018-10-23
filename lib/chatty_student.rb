@@ -9,6 +9,7 @@ class ChattyStudent < Student
   end
   
   def hello 
-    super 
+    super
+    puts "How are you "
   
 end 
